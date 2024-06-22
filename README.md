@@ -39,10 +39,13 @@ Nessa primeira proposta, irei usar o Guia do Exame da Certificação SAA (Soluti
 - Conceitos básicos de redes.
 - Recuperação de desastres (DR) - RPO e RTO.
 
-## Domínio 3: Criação de arquiteturas de alto desempenho (24% do conteúdo
-pontuado)
+
+## Domínio 3: Criação de arquiteturas de alto desempenho (24% do conteúdo pontuado)
 
 
 
-## Domínio 4: Criação de arquiteturas com custo otimizado (20% do conteúdo
-pontuado)
+## Domínio 4: Criação de arquiteturas com custo otimizado (20% do conteúdo pontuado)
+
+
+
+
